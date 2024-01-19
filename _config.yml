@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: CedricChan's Blog
+subtitle: '通信、AI、经济跨学科斜杠青年'
+description: 'CedricChan的个人博客，作者是北京邮电大学信息与通信工程在读研究生，同时修读了北京大学国家发展研究院校外经济学辅修项目，在人工智能领域探索创业ing'
+keywords: 个人博客 跨学科 经济学 通信网络 校外经济学辅修 人工智能
+author: Cedric Chan
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://cedric1024.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
